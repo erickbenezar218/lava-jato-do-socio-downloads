@@ -18,6 +18,11 @@ Abre o sistema da loja (dados reais). Use no computador do caixa.
 2. Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações** → **Executar assim mesmo** (o instalador ainda não tem assinatura digital).
 3. Abra pelo atalho **Lava Jato do Sócio** (oficial) ou **Lava Jato do Sócio DEMO** (teste).
 
+## Papel de parede (Full HD)
+**[Baixar Papel-de-Parede-Lava-Jato-do-Socio-1920x1080.jpg](https://github.com/erickbenezar218/lava-jato-do-socio-downloads/raw/main/Papel-de-Parede-Lava-Jato-do-Socio-1920x1080.jpg)**
+
+No Windows: clique com o botão direito na imagem → **Definir como plano de fundo da área de trabalho**.
+
 Requisitos: Windows 10 ou 11 (64 bits) e internet.
 
 ---
